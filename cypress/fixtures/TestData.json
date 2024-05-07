@@ -1,0 +1,8 @@
+{
+  "SelectedCountry": "Germany | Deutschland",
+  "Labels": ["Damen", "Herren"],
+  "ExpectedUrlParameters" : ["women", "men"],
+  "Email": "fake2@fake.com",
+  "Password" : "fakefake",
+  "Category": ["lifestyle", "instafashion-women", "get-more-club"]
+}
