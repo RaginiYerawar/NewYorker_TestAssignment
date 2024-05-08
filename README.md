@@ -1,3 +1,9 @@
+# NewYorker Test Assignment
+
+**Description:**
+This repository contains tests for Login as well as Home page tests. I tried to cover as much tests as possible and follow requirement instructions.
+
+
 **Technology Stack:**
 
 - Cypress testing framework
