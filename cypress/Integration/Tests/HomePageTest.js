@@ -62,6 +62,8 @@ describe('Test suite to test basic workflow of Home Page', ()=>{
         homePage.GetBirthDateLocator().should('be.visible')
     })
 
+    //I wanted to check all 4 tests togather, this is another test.
+    //For now I marked this test to skip. We can update it to run if required
     it.skip('Test case to verify category all togather and birthdate picker', ()=>{
         loginPage.LoginWithValidCred(testData.Labels[0], testData.Email, testData.Password)
         //Click on hamburger menu

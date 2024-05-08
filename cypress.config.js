@@ -2,6 +2,11 @@ const { defineConfig } = require("cypress");
 
 module.exports = defineConfig({
   reporter: 'cypress-mochawesome-reporter',
+  reporterOptions: {
+    charts: true,
+    embeddedScreenshots: true,
+    saveAllAttempts: false,
+  },
   env: {
     url : "https://www.newyorker.de/"
   },
