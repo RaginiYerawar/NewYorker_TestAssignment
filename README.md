@@ -13,4 +13,6 @@
     2. npm install
     3. npx cypress run
 
-    once you setup the project and run the tests, html report will be generated at path ..\NewYorker_TestAssignment\cypress\reports\html
+    once you setup the project and run the tests, html report will be generated at path ..\NewYorker_TestAssignment\cypress\reports\html\index.html
+
+    Note: There is a test report already generated at given path, which you can take a look.
