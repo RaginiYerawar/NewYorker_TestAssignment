@@ -12,3 +12,5 @@
     1. cd <cloned project path>
     2. npm install
     3. npx cypress run
+
+    once you setup the project and run the tests, html report will be generated at path ..\NewYorker_TestAssignment\cypress\reports\html
