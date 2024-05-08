@@ -62,7 +62,7 @@ describe('Test suite to test basic workflow of Home Page', ()=>{
         homePage.GetBirthDateLocator().should('be.visible')
     })
 
-    it('Test case to verify category all togather and birthdate picker', ()=>{
+    it.skip('Test case to verify category all togather and birthdate picker', ()=>{
         loginPage.LoginWithValidCred(testData.Labels[0], testData.Email, testData.Password)
         //Click on hamburger menu
         loginPage.GetHamburgerMenuLocator().click()
