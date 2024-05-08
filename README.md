@@ -1,9 +1,9 @@
-Technology Stack:
+**Technology Stack:**
 
-Cypress testing framework
-Javascript
-Page Object Model (POM) for a clean and maintainable test structure
-Mochawesome reporting tool for well structured html reports
+- Cypress testing framework
+- Javascript
+- Page Object Model (POM) for a clean and maintainable test structure
+- Mochawesome reporting tool for well structured html reports
 
 **How to Use:**
 
